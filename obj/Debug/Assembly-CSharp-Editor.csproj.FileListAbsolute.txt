@@ -1,0 +1,1 @@
+C:\Users\MSI -\Desktop\backup of unity integration\Emotiv Unity Plugin v3.3.3.1\example\EmotivControlPanel\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
